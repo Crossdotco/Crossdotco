@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crossdotco
+- 👋 Hi, I’m @Notatestudios
 - 👀 I’m interested in Playtesting & Advising
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Making Games
